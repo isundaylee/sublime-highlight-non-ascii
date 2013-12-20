@@ -1,0 +1,10 @@
+[
+  {
+    "caption": "Highlight Non-ASCII Characters",
+    "command": "highlight_extended_chars"
+  },
+  {
+    "caption": "Unhighlight Non-ASCII Characters",
+    "command": "unhighlight_extended_chars"
+  }
+]
